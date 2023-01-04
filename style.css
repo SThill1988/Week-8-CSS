@@ -1,0 +1,42 @@
+body {
+    background-color: lightcoral;
+
+    font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 16px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+h1 {
+    color: teal;
+    font-size: 200px ;
+}
+
+
+div {
+    word-spacing: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%
+}
+
+th, td {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+h3 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
